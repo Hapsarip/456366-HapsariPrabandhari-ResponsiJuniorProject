@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6YI3q5YSNVRdV8MpIPpUs4kUrl6tZVdvH3Kgi3oRt+FnQg5PB3fi7+rP/1Y1mLzuA64T41O50PE9DLhwnyaPTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hapsari.prabandhari\\Documents\\Praktikum PBO\\responsi\\Responsi\\Responsi\\Responsi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hapsari.prabandhari\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hapsari.prabandhari\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\hapsari.prabandhari\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
